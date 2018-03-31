@@ -1,10 +1,11 @@
 # Little benchmark for the Micro:bit
 
-One of the nice things about the Micro:bit, is that it supports different languages:
+One of the nice things about the [Micro:bit](http://microbit.org), is that it supports different languages:
 * Flashing it with the [Espruino](http://www.espruino.com/MicroBit) firmware, lets you program it with javascript, with the added bonus of the excellent Espruino WebIDE.
 * [MicroPython](http://microbit-micropython.readthedocs.io/en/latest/), a python implementation for microcontrollers, is also supported.
 * Last but not least, you can use the Arduino IDE and it's C-like language to program the Micro:bit.
-here is a [nice guide from Adafruit](https://learn.adafruit.com/use-micro-bit-with-arduino/overview) on how to set this all up.
+
+Here is a [nice guide from Adafruit](https://learn.adafruit.com/use-micro-bit-with-arduino/overview) on how to set this all up.
 
 **MicroBench is a simple little benchmark implemented in these 3 languages, to see how each one of them behaves on this neat little board.**
 
